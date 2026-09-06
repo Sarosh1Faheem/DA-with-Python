@@ -337,12 +337,12 @@ The knowledge gained from this assignment creates a strong foundation for furthe
 
 # Institute and Candidate Information
 
-* **Institute:** SMIT  
-* **Faculty Name:** Sir Ayan Hussain
+* **Faculty Name:** Sir Ayan Hussain  
+* **Institute:** SMIT
 
 --------------------------------------------- 
 
+* **Student Of:** Data Analytics using Python (DAP)  
 * **Candidate Name:** Muhammad Sarosh Faheem  
 * **Age:** 30  
-* **From:** Karachi  
-* **Student Of:** Data Analytics using Python (DAP)
+* **From:** Karachi
