@@ -1,4 +1,4 @@
-# Assignment 02 — Python Basics: Variable & Operators 
+# Assignment 01 — Python Basics: Variable & Operators 
 
 # Assignment  Overview
 
