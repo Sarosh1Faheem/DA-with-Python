@@ -335,15 +335,14 @@ By completing these tasks, the learner develops the ability to:
 
 The knowledge gained from this assignment creates a strong foundation for further learning in **Python Programming and Data Analytics**. Conditional logic is frequently used in data validation, data cleaning, filtering, transformation, automation, and analytical decision-making.
 
----
-
 # Institute and Candidate Information
 
 **Institute:** SMIT  
 **Faculty Name:** Sir Ayan Hussain
+
 --------------------------------------------- 
+
 **Candidate Name:** Muhammad Sarosh Faheem  
 **Age:** 30  
 **From:** Karachi  
 **Student Of:** Data Analytics using Python (DAP)
-----
