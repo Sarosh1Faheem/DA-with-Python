@@ -81,9 +81,9 @@ A strong understanding of Python fundamentals is an important step toward becomi
 
 ## Student
 
+* **Course:** Data Analytics using Python (DAP)
 * **Name:** Muhammad Sarosh Faheem
-* **Age:** 30
-* * **ST-ID:** 887167
+* **ST-ID:** 887167
 * **From:** Karachi
 
 ---
