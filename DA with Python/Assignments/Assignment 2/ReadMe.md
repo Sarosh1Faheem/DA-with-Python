@@ -99,7 +99,7 @@ The program displays:
 
 ---
 
-## Task 7: Display the Last Digit of a Number
+## Task 6: Display the Last Digit of a Number
 
 The program accepts a number from the user and displays its last digit.
 
@@ -112,7 +112,7 @@ The modulus operator with `10` can be used to identify the last digit of a numbe
 
 ---
 
-## Task 9: Square or Rectangle
+## Task 7: Square or Rectangle
 
 The program accepts the **length** and **breadth** of a shape from the user.
 
@@ -128,7 +128,7 @@ It then checks:
 
 ---
 
-## Task 10: Greatest of Two Numbers
+## Task 8: Greatest of Two Numbers
 
 The program accepts two integer values from the user and determines which number is greater.
 
@@ -141,7 +141,7 @@ It also handles the situation where both numbers are equal.
 
 ---
 
-## Task 11: Shop Discount Calculation
+## Task 9: Shop Discount Calculation
 
 A shop provides a **10% discount** if the total cost of purchased items is more than **1000**.
 
@@ -161,7 +161,7 @@ The program should:
 
 ---
 
-## Task 12: Student Grading System
+## Task 10: Student Grading System
 
 The program accepts marks from the user and assigns a grade according to the following criteria:
 
@@ -182,7 +182,7 @@ The program accepts marks from the user and assigns a grade according to the fol
 
 ---
 
-## Task 14: Student Exam Eligibility Based on Attendance
+## Task 11: Student Exam Eligibility Based on Attendance
 
 A student is not allowed to sit in the examination if their attendance is less than **75%**.
 
@@ -202,7 +202,7 @@ The program should:
 
 ---
 
-## Task 15: Exam Eligibility with Medical Cause
+## Task 12: Exam Eligibility with Medical Cause
 
 This task extends the previous attendance eligibility program.
 
@@ -222,7 +222,7 @@ The program should:
 
 ---
 
-## Task 16: Leap Year Checker
+## Task 13: Leap Year Checker
 
 The program checks whether a year entered by the user is a **Leap Year**.
 
@@ -239,7 +239,7 @@ The leap year logic includes the following conditions:
 
 ---
 
-## Task 17: Employee Place of Service
+## Task 14: Employee Place of Service
 
 The program asks the user to enter:
 
@@ -262,7 +262,7 @@ Based on the given conditions:
 
 ---
 
-## Task 18: Electricity Bill Calculation
+## Task 15: Electricity Bill Calculation
 
 The program calculates the electricity bill based on the number of units consumed.
 
@@ -282,7 +282,7 @@ The program calculates the total electricity bill according to the applicable un
 
 ---
 
-## Task 19: Oldest and Youngest Among Three People
+## Task 16: Oldest and Youngest Among Three People
 
 The program accepts the ages of three people and determines:
 
@@ -335,15 +335,14 @@ By completing these tasks, the learner develops the ability to:
 
 The knowledge gained from this assignment creates a strong foundation for further learning in **Python Programming and Data Analytics**. Conditional logic is frequently used in data validation, data cleaning, filtering, transformation, automation, and analytical decision-making.
 
----
-
 # Institute and Candidate Information
 
-**Institute:** SMIT  
-**Faculty Name:** Sir Ayan Hussain
+* **Faculty Name:** Sir Ayan Hussain  
+* **Institute:** SMIT
+
 --------------------------------------------- 
-**Candidate Name:** Muhammad Sarosh Faheem  
-**Age:** 30  
-**From:** Karachi  
-**Student Of:** Data Analytics using Python (DAP)
-----
+
+* **Student Of:** Data Analytics using Python (DAP)  
+* **Candidate Name:** Muhammad Sarosh Faheem  
+* **Age:** 30  
+* **From:** Karachi
