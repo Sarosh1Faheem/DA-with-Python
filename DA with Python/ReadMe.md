@@ -8,7 +8,7 @@
 
 ---
 
-# Introduction
+## Introduction
 
 Data Analytics with Python is a practical course designed to help learners understand how data can be collected, processed, analyzed, and transformed into meaningful insights.
 
@@ -20,7 +20,7 @@ Throughout this course, learners will gradually develop the ability to work with
 
 ---
 
-# Learning Objectives
+## Learning Objectives
 
 The primary learning objectives of this course include:
 
@@ -37,11 +37,11 @@ The primary learning objectives of this course include:
 
 ---
 
-# What We Are Going to Learn
+## What We Are Going to Learn
 
 During the course, learners are expected to gradually build knowledge in the following areas:
 
-## Python Fundamentals
+### Python Fundamentals
 
 The course begins with the fundamental concepts of Python programming.
 
@@ -60,7 +60,7 @@ These concepts provide the foundation required for working with data through Pyt
 
 ---
 
-## Analytical and Problem-Solving Thinking
+### Analytical and Problem-Solving Thinking
 
 Data Analytics is not only about using tools. It also requires the ability to understand problems and approach them logically.
 
@@ -75,7 +75,7 @@ Learners will develop skills such as:
 
 ---
 
-## Working with Data
+### Working with Data
 
 A major part of the course focuses on understanding how data can be handled and processed.
 
@@ -90,7 +90,7 @@ Learners will gain exposure to concepts related to:
 
 ---
 
-## Data Analysis
+### Data Analysis
 
 The course will help learners understand how to analyze data to discover useful information.
 
@@ -105,7 +105,7 @@ This includes developing the ability to:
 
 ---
 
-## Python for Data Analysis
+### Python for Data Analysis
 
 Python will be used as the primary programming language for performing analytical tasks.
 
@@ -120,7 +120,7 @@ Learners will understand how Python can help in:
 
 ---
 
-## Data Visualization
+### Data Visualization
 
 Data visualization helps transform numerical and complex information into understandable visual formats.
 
@@ -135,7 +135,7 @@ The goal is to communicate insights clearly and make analytical results easier t
 
 ---
 
-# Importance of This Course
+## Importance of This Course
 
 In today's digital environment, organizations generate large amounts of data through their operations, customers, systems, websites, applications, and business activities.
 
@@ -162,7 +162,7 @@ It also creates a foundation for individuals who want to move toward careers in:
 
 ---
 
-# Demand in the Market
+## Demand in the Market
 
 Data-related skills continue to be highly relevant in the modern job market.
 
@@ -197,7 +197,7 @@ The exact career opportunities available to a learner will depend on their pract
 
 ---
 
-# Who Is This Course For?
+## Who Is This Course For?
 
 This course can be suitable for:
 
@@ -215,7 +215,7 @@ A strong programming background is helpful but is not necessarily required for b
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 After completing the course, learners should be able to:
 
@@ -234,7 +234,7 @@ After completing the course, learners should be able to:
 
 ---
 
-# Practical Approach
+## Practical Approach
 
 The course is expected to focus on developing practical understanding rather than only theoretical knowledge.
 
@@ -251,7 +251,7 @@ Regular practice is important because Data Analytics is a practical skill that i
 
 ---
 
-# Recommended Skills to Develop Alongside the Course
+## Recommended Skills to Develop Alongside the Course
 
 To become more competitive in the Data Analytics field, learners can gradually strengthen additional skills such as:
 
@@ -268,7 +268,7 @@ Python becomes even more valuable when combined with these complementary analyti
 
 ---
 
-# Career Development Perspective
+## Career Development Perspective
 
 Learning Data Analytics with Python should not be viewed as learning only a programming language.
 
@@ -280,7 +280,7 @@ This way of thinking is valuable across technology, business, operations, financ
 
 ---
 
-# Conclusion
+## Conclusion
 
 The **Data Analytics with Python (DAP)** course provides a strong foundation for individuals who want to develop programming, analytical, and problem-solving skills.
 
@@ -297,7 +297,7 @@ The most important outcome of the course is not simply learning how to use Pytho
 
 ---
 
-# Institute Information
+## Institute Information
 
 **Institute Name:** SMIT  
 **Course Name:** Data Analytics with Python (DAP)  
