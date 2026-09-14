@@ -1,17 +1,21 @@
 # Python Assignments 03 & 04
 
 ---
-## Student Information & Institute information
 
-### Insitute Information:
+## Student and Institute Information
+
+### Institute Details
+
 * **Course:** Data Analysis using Python
 * **Faculty:** Sir Ayan Hussain
 * **Institute:** SMIT
 
-### Student Information:
+### Student Details
+
 * **Student:** Muhammad Sarosh Faheem
 * **ST-ID:** 887187
 * **From:** Karachi
+
 ---
 
 ## Lists, Strings, Matrices and Dictionaries Practice
@@ -20,7 +24,7 @@
 
 ## 📘 Assignment 03 — Lists, Strings and Matrices
 
-### Overview
+### Assignment 03 Overview
 
 This assignment focuses on developing practical understanding of fundamental Python programming concepts.
 
@@ -42,11 +46,11 @@ The assignment contains 10 programming exercises designed to improve problem-sol
 
 ### Q1 — Print Alternate Elements of a List
 
-#### Objective
+#### Objective — Assignment 03 Q1
 
 Write a program that accepts a list from the user and prints the alternate elements of the list.
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q1
 
 * Lists
 * User Input
@@ -58,11 +62,11 @@ Write a program that accepts a list from the user and prints the alternate eleme
 
 ### Q2 — Reverse a List
 
-#### Objective
+#### Objective — Assignment 03 Q2
 
 Write a program that accepts a list from the user and reverses the contents of the list without using the `reverse()` method.
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q2
 
 * Lists
 * Loops
@@ -74,11 +78,11 @@ Write a program that accepts a list from the user and reverses the contents of t
 
 ### Q3 — Find the Largest Number
 
-#### Objective
+#### Objective — Assignment 03 Q3
 
 Find and display the largest number from a list without using the built-in `max()` function.
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q3
 
 * Lists
 * Loops
@@ -89,11 +93,11 @@ Find and display the largest number from a list without using the built-in `max(
 
 ### Q4 — Rotate Elements of a List
 
-#### Objective
+#### Objective — Assignment 03 Q4
 
 Rotate the elements of a list so that each element moves to the next position and the last element moves to the first position.
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q4
 
 * Lists
 * Indexing
@@ -104,11 +108,11 @@ Rotate the elements of a list so that each element moves to the next position an
 
 ### Q5 — Delete a Given Word from a String
 
-#### Objective
+#### Objective — Q5
 
 Write a program that accepts a string from the user and asks the user to delete a specific word from the string.
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q5
 
 * Strings
 * User Input
@@ -118,7 +122,7 @@ Write a program that accepts a string from the user and asks the user to delete 
 * Lists
 * `join()`
 
-#### Basic Logic
+#### Basic Logic — Assignment 03 Q5
 
 ```text
 Take Sentence
@@ -140,7 +144,7 @@ Join Words Back into a String
 
 ### Q6 — Convert Date Format
 
-#### Objective
+#### Objective — Q6
 
 Write a program that accepts a date in the following format:
 
@@ -154,7 +158,7 @@ And displays it in the following format:
 March 12, 2021
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q6
 
 * Strings
 * `split()`
@@ -166,11 +170,11 @@ March 12, 2021
 
 ### Q7 — Capitalize Each Word
 
-#### Objective
+#### Objective — Q7
 
 Write a function that accepts a sentence and creates a new string where the first character of each word is capitalized.
 
-#### Example
+#### Example — Matrix Addition
 
 **Input:**
 
@@ -184,7 +188,7 @@ stop and smell the roses.
 Stop And Smell The Roses.
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q7
 
 * Functions
 * Strings
@@ -197,7 +201,7 @@ Stop And Smell The Roses.
 
 ### Q8 — Find the Sum of Each Row of a Matrix
 
-#### Objective
+#### Objective — Q8
 
 Find and display the sum of every row in a matrix of size `m × n`.
 
@@ -219,7 +223,7 @@ matrix = [
 ]
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q9
 
 * Lists
 * Nested Lists
@@ -228,7 +232,7 @@ matrix = [
 * Row and Column Indexing
 * User Input
 
-#### Basic Logic
+#### Basic Logic — Assignment 03 Q8
 
 ```text
 Matrix
@@ -248,11 +252,11 @@ Repeat Until All Rows Are Completed
 
 ### Q9 — Add Two Matrices
 
-#### Objective
+#### Objective — Q9
 
 Write a program to add two matrices of size `n × m`.
 
-#### Important Rule
+#### Important Rule — Matrix Multiplication
 
 Both matrices must have the same dimensions.
 
@@ -272,7 +276,7 @@ Matrix2[i][j]
 Result[i][j]
 ```
 
-#### Example
+#### Example — Matrix Multiplication
 
 **Matrix 1:**
 
@@ -295,7 +299,7 @@ Result[i][j]
 10   12
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 03 Q10
 
 * Matrices
 * Nested Lists
@@ -308,7 +312,7 @@ Result[i][j]
 
 ### Q10 — Multiply Two Matrices
 
-#### Objective
+#### Objective — Q10
 
 Write a program to multiply two matrices.
 
@@ -355,7 +359,7 @@ Result (m × p)
 43   50
 ```
 
-#### Basic Logic
+#### Basic Logic — Assignment 03 Q10
 
 ```text
 Select Row from Matrix 1
@@ -382,7 +386,7 @@ Store Value in Result Matrix
 
 ## 📗 Assignment 04 — Dictionaries
 
-### Overview
+### Assignment 04 Overview
 
 This assignment focuses on understanding Python dictionaries and their practical applications.
 
@@ -402,7 +406,7 @@ The major concepts include:
 
 ### Q1 — Basic Dictionary Creation
 
-#### Objective
+#### Objective — Assignment 04 Q1
 
 Create a dictionary named `student` with the following keys:
 
@@ -413,7 +417,7 @@ Create a dictionary named `student` with the following keys:
 
 Print each value individually.
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q1
 
 * Dictionaries
 * Keys
@@ -424,7 +428,7 @@ Print each value individually.
 
 ### Q2 — Adding and Updating Dictionary Values
 
-#### Objective
+#### Objective — Assignment 04 Q2
 
 Add a new key-value pair and update an existing value in a dictionary.
 
@@ -442,7 +446,7 @@ dictionary["new_key"] = value
 dictionary["existing_key"] = new_value
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q2
 
 * Dictionaries
 * Adding Values
@@ -452,7 +456,7 @@ dictionary["existing_key"] = new_value
 
 ### Q3 — Loop Through a Dictionary
 
-#### Objective
+#### Objective — Assignment 04 Q3
 
 Print the keys and values of a dictionary using a loop.
 
@@ -463,7 +467,7 @@ for key, value in dictionary.items():
     print(key, value)
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q3
 
 * Dictionaries
 * Loops
@@ -473,7 +477,7 @@ for key, value in dictionary.items():
 
 ### Q4 — Count Frequency of Numbers
 
-#### Objective
+#### Objective — Assignment 04 Q4
 
 Create a dictionary that stores how many times each number appears in a list.
 
@@ -492,7 +496,7 @@ Create a dictionary that stores how many times each number appears in a list.
 4 → 4 Times
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q4
 
 * Lists
 * Dictionaries
@@ -504,11 +508,11 @@ Create a dictionary that stores how many times each number appears in a list.
 
 ### Q5 — Word Counter
 
-#### Objective
+#### Objective — Assignment 04 Q5
 
 Accept a sentence from the user and count how many times each word appears.
 
-#### Basic Logic
+#### Basic Logic — Assignment 04 Q5
 
 ```text
 Take Sentence
@@ -526,7 +530,7 @@ Otherwise
 Create New Dictionary Entry
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q5
 
 * Strings
 * Dictionaries
@@ -539,11 +543,11 @@ Create New Dictionary Entry
 
 ### Q6 — Student Marks and Average
 
-#### Objective
+#### Objective — Assignment 04 Q6
 
 Calculate the total and average marks from a dictionary containing subject names and marks.
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q6
 
 * Dictionaries
 * `.values()`
@@ -551,7 +555,7 @@ Calculate the total and average marks from a dictionary containing subject names
 * Arithmetic Operations
 * `len()`
 
-#### Basic Logic
+#### Basic Logic — Assignment 04 Q6
 
 ```text
 Dictionary of Marks
@@ -569,18 +573,18 @@ Calculate Average
 
 ### Q7 — Highest Scoring Student
 
-#### Objective
+#### Objective — Assignment 04 Q7
 
 Find the student with the highest marks from a dictionary.
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q7
 
 * Dictionaries
 * Loops
 * Conditional Statements
 * Variables
 
-#### Basic Logic
+#### Basic Logic — Assignment 04 Q7
 
 ```text
 Start with a Student
@@ -600,11 +604,11 @@ Display Final Result
 
 ### Q8 — Merge Dictionaries
 
-#### Objective
+#### Objective — Assignment 04 Q8
 
 Merge two dictionaries into one dictionary.
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q8
 
 * Dictionaries
 * `update()`
@@ -623,7 +627,7 @@ Merged Dictionary
 
 ### Q9 — Mini Project: Contact Book
 
-#### Objective
+#### Objective — Assignment 04 Q9
 
 Create a simple contact book that:
 
@@ -632,7 +636,7 @@ Create a simple contact book that:
 3. Displays the phone number if the contact exists.
 4. Displays `Contact not found` if the contact does not exist.
 
-#### Basic Logic
+#### Basic Logic — Assignment 04 Q9
 
 ```text
 Create Dictionary
@@ -650,7 +654,7 @@ Contact Found?
 Show Phone   Contact Not Found
 ```
 
-#### Concepts Used
+#### Concepts Used — Assignment 04 Q9
 
 * Dictionaries
 * User Input
@@ -782,15 +786,19 @@ By completing these exercises, I've developed an understanding of how to:
 These concepts form an important foundation for progressing toward more advanced Python topics such as functions, object-oriented programming, data analysis, automation, and application development.
 
 ---
+
 ## Student Information & Institute information
 
-### Insitute Information:
+### Insitute Information
+
 * **Course:** Data Analysis using Python
 * **Faculty:** Sir Ayan Hussain
 * **Institute:** SMIT
 
-### Student Information:
+### Student Information
+
 * **Student:** Muhammad Sarosh Faheem
 * **ST-ID:** 887187
 * **From:** Karachi
+
 ---
