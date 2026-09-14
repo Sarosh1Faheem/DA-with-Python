@@ -1,5 +1,19 @@
 # Python Assignments 03 & 04
 
+---
+## Student Information & Institute information
+
+### Insitute Information:
+* **Course:** Data Analysis using Python
+* **Faculty:** Sir Ayan Hussain
+* **Institute:** SMIT
+
+### Student Information:
+* **Student:** Muhammad Sarosh Faheem
+* **ST-ID:** 887187
+* **From:** Karachi
+---
+
 ## Lists, Strings, Matrices and Dictionaries Practice
 
 ---
@@ -751,7 +765,7 @@ Problem Solving
 
 Together, these assignments provide practical experience with important Python data structures and programming logic.
 
-By completing these exercises, a student develops an understanding of how to:
+By completing these exercises, I've developed an understanding of how to:
 
 * Accept input from users.
 * Store and manipulate data using lists.
@@ -766,3 +780,17 @@ By completing these exercises, a student develops an understanding of how to:
 * Build small practical programs using Python.
 
 These concepts form an important foundation for progressing toward more advanced Python topics such as functions, object-oriented programming, data analysis, automation, and application development.
+
+---
+## Student Information & Institute information
+
+### Insitute Information:
+* **Course:** Data Analysis using Python
+* **Faculty:** Sir Ayan Hussain
+* **Institute:** SMIT
+
+### Student Information:
+* **Student:** Muhammad Sarosh Faheem
+* **ST-ID:** 887187
+* **From:** Karachi
+---
