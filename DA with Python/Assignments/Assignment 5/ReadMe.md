@@ -40,7 +40,7 @@ The program should:
 * Use conditional statements.
 * Display clear output.
 
-### Concepts Practiced
+### Concepts Practiced — Task 1
 
 * Lists
 * `for` loops
@@ -70,7 +70,7 @@ The program should:
 * Display whether the student **Passed** or **Failed**.
 * A student passes when the average marks are **50 or above**.
 
-#### Concepts Practiced
+### Concepts Practiced — Task 2
 
 * Dictionaries
 * Lists inside dictionaries
@@ -100,7 +100,7 @@ The program should:
 * Use comparison logic.
 * Use loops to process the employee data.
 
-#### Concepts Practiced
+### Concepts Practiced — Task 3
 
 * Lists
 * Dictionaries
@@ -128,7 +128,7 @@ The program should:
 
 The value `-1` is used as the stopping condition and should not be included as a normal number in the list.
 
-#### Concepts Practiced
+### Concepts Practiced — Task 4
 
 * `while` loops
 * User input
@@ -156,7 +156,7 @@ For example, the output format should represent word frequencies such as:
 * `banana: 2`
 * `orange: 1`
 
-#### Concepts Practiced
+### Concepts Practiced — Task 5
 
 * Strings
 * String splitting
@@ -184,7 +184,7 @@ The expected output format is:
 
 The program must use nested loops and maintain proper formatting.
 
-### Concepts Practiced
+### Concepts Practiced — Task 6
 
 * `for` loops
 * Nested loops
@@ -194,7 +194,7 @@ The program must use nested loops and maintain proper formatting.
 
 ---
 
-# General Requirements
+## General Requirements
 
 The assignment must satisfy the following general requirements:
 
@@ -232,7 +232,7 @@ The completed `.py` file should be submitted before the due date.
 
 ---
 
-## Overall Learning Objective:
+## Overall Learning Objective
 
 The main learning objectives of Assignment 05 are to develop a practical understanding of **Advanced Loops and Data Structures in Python** and apply them to different data-processing problems.
 
