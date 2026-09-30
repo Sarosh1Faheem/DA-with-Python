@@ -6,7 +6,7 @@ A school wants a small Python program to manage its people. Everyone in the scho
 
 ---
 
-### Part 1: Base Class (10 Marks)
+### Part 1: Base Class
 
 Create a class `Person` with:
 
@@ -14,7 +14,7 @@ Create a class `Person` with:
 - Method `display_info()` that prints name, age, and CNIC
 - Method `role()` that returns `"Person"`
 
-### Part 2: Child Classes (20 Marks)
+### Part 2: Child Classes
 
 Create three classes that inherit from `Person`. Use `super()` in every constructor.
 
@@ -61,7 +61,7 @@ Methods:
 
 Each child class must override `display_info()`, call `super().display_info()` first, then print its own extra details.
 
-### Part 3: Polymorphism (10 Marks)
+### Part 3: Polymorphism
 
 Create a list with at least:
 
@@ -73,7 +73,7 @@ Loop through the list and call `role()` and `display_info()` on each object.
 
 Print a line of dashes between each person.
 
-### Part 4: Reports (10 Marks)
+### Part 4: Reports
 
 Using `isinstance()`, write code that:
 
