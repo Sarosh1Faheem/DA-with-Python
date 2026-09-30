@@ -84,7 +84,7 @@ Using `isinstance()`, write code that:
 ## OOP Concepts Used
 
 | OOP Concept | Where It Is Used |
-|---|---|
+| --- | --- |
 | Class | `Person`, `Student`, `Teacher`, `Admin` |
 | Object | Objects created from each class |
 | Inheritance | `Student`, `Teacher`, and `Admin` inherit from `Person` |
